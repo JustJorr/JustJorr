@@ -16,13 +16,6 @@ Passionate about crafting smooth mobile experiences, building high-performance a
 <!-- GitHub Streak Stats -->
 <img height="170" src="https://streak-stats.demolab.com?user=JustJorr&theme=tokyonight&hide_border=true" />
 
-<!-- GitHub Top Languages -->
-<img height="170" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=JustJorr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-
-<!-- GitHub Overall Stats -->
-<img height="170" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=JustJorr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-
-
 </div>
 
 ---
