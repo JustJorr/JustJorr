@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 i'm Jordan
 
 ### A Mobile focused univ student
 
