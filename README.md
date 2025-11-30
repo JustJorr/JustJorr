@@ -1,15 +1,41 @@
-## Hi there 👋 i'm Jordan
+## 👋 Hi there, I'm **Jordan**
 
-### A Mobile focused univ student
+### 🚀 Mobile-Focused University Student  
+Passionate about crafting smooth mobile experiences, building high-performance apps, and turning ideas into real products.
 
-- 📫 How to reach me **jordanjosia929@gmail.com**
+- ✉️ Contact me: **jordanjosia929@gmail.com**
+- 💻 Currently building with **Flutter**, **Firebase**, and **Dart**
+- 🎯 Always exploring new tools, frameworks, and UI ideas
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+<img height="170" src="https://streak-stats.demolab.com?user=JustJorr&theme=tokyonight&hide_border=true" />
+
+<!-- GitHub Top Languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJorr&layout=compact&theme=tokyonight&hide_border=true" />
+
+<!-- GitHub Overall Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JustJorr&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me  
 <p align="left">
-<a href="https://github.com/JustJorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JustJorr" height="30" width="40" /></a>
-<a href="https://instagram.com/@danszs._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@danszs._" height="30" width="40" /></a>
-<a href="https://discord.gg/@justjorr." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@justjorr." height="30" width="40" /></a>
+<a href="https://github.com/JustJorr" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://instagram.com/@danszs._" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+<a href="https://discord.gg/@justjorr." target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a></p>
+---
+
+## 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,python,sklearn,mysql,django,pandas,numpy,matplotlib" />
+</p>
