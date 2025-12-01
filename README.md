@@ -18,9 +18,9 @@ Passionate about crafting smooth mobile experiences, building high-performance a
 
 <br /><br />
 
-<!-- Most Used Languages (Backup Mirror) -->
-<img height="170" src="https://github-readme-stats-git-master-org.vercel.app/api/top-langs/?username=JustJorr&layout=compact&theme=tokyonight&hide_border=true" />
-
+<a href="https://github.com/JustJorr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henochsaerang&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=JustJorr" alt="Jordan's Top Languages" />
+  </a>
 </div>
 
 ---
