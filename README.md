@@ -18,8 +18,13 @@ Passionate about crafting smooth mobile experiences, building high-performance a
 
 <br /><br />
 
+<!-- GitHub Stats Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JustJorr&show_icons=true&theme=tokyonight" />
+
+<br /><br />
+
 <!-- GitHub Top Languages -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJorr&theme=tokyonight&layout=compact" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJorr&theme=tokyonight&layout=compact&hide=html,css" />
 
 </div>
 
