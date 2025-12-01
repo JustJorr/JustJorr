@@ -18,8 +18,8 @@ Passionate about crafting smooth mobile experiences, building high-performance a
 
 <br /><br />
 
-<!-- Most Used Languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJorr&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Most Used Languages (Backup Mirror) -->
+<img height="170" src="https://github-readme-stats-git-master-org.vercel.app/api/top-langs/?username=JustJorr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
