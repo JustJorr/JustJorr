@@ -19,7 +19,7 @@ Passionate about crafting smooth mobile experiences, building high-performance a
 <br /><br />
 
 <a href="https://github.com/JustJorr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henochsaerang&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=JustJorr"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJorr&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=JustJorr"/>
 </div>
 
 ---
