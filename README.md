@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm **Jordan**
+# 👋 Hi there, I'm **Jordan**
 
-### 🚀 Mobile-Focused University Student  
+## 🚀 Mobile-Focused University Student  
 Passionate about crafting smooth mobile experiences, building high-performance apps, and turning ideas into real products.
 
 - ✉️ Contact me: **jordanjosia929@gmail.com**
@@ -18,13 +18,15 @@ Passionate about crafting smooth mobile experiences, building high-performance a
 
 <br /><br />
 
-<a href="https://github.com/JustJorr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJorr&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=JustJorr"/>
+<!-- GitHub Top Languages -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJorr&theme=tokyonight&layout=compact" />
+
 </div>
 
 ---
 
 ## 🌐 Connect With Me  
+
 <p align="left">
 <a href="https://github.com/JustJorr" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 <a href="https://instagram.com/@danszs._" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
@@ -34,6 +36,7 @@ Passionate about crafting smooth mobile experiences, building high-performance a
 ---
 
 ## 🛠️ Languages & Tools  
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,python,sklearn,mysql,django,pandas,numpy,matplotlib" />
 </p>
