@@ -1,38 +1,129 @@
-# 👋 Hi there, I'm **Jordan**
-
-## 🚀 Mobile-Focused University Student  
-Passionate about crafting smooth mobile experiences, building high-performance apps, and turning ideas into real products.
-
-- ✉️ Contact me: **jordanjosia929@gmail.com**
-- 💻 Currently building with **Flutter**, **Firebase**, and **Dart**
-- 🎯 Always exploring new tools, frameworks, and UI ideas
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<img height="170" src="https://streak-stats.demolab.com?user=JustJorr&theme=tokyonight&hide_border=true" />
+# Jordan Josia 🚀
 
+### Mobile Developer | Flutter Enthusiast | Product Builder
+
+*Crafting pixel-perfect mobile experiences and turning ambitious ideas into real-world applications*
+
+[![Email](https://img.shields.io/badge/Email-jordanjosia929%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordanjosia929@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JustJorr-181717?style=for-the-badge&logo=github)](https://github.com/JustJorr)
+[![Instagram](https://img.shields.io/badge/Instagram-%40danszs._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@danszs._)
+[![Discord](https://img.shields.io/badge/Discord-%40justjorr.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@justjorr.)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me  
+## 💫 About Me
 
-<p align="left">
-<a href="https://github.com/JustJorr" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-<a href="https://instagram.com/@danszs._" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="https://discord.gg/@justjorr." target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
-</p>
+```dart
+class Developer {
+  final String name = "Jordan";
+  final String role = "Mobile Developer";
+  final List<String> focus = [
+    "Flutter & Dart",
+    "Firebase Backend",
+    "Cross-Platform Apps",
+    "UI/UX Design"
+  ];
+  
+  String passion() => "Building products that people actually want to use";
+  
+  bool alwaysLearning = true;
+}
+```
+
+I'm a university student obsessed with creating smooth, performant mobile applications. My approach combines clean code with intuitive design, always prioritizing user experience. Currently diving deep into Flutter's ecosystem while exploring the intersection of mobile development and emerging technologies.
+
+**What drives me:**
+- 🎨 Crafting interfaces that feel natural and delightful
+- ⚡ Optimizing performance down to the last frame
+- 🔧 Experimenting with new frameworks and architectural patterns
+- 📦 Shipping real products that solve actual problems
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🔥 Current Focus
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,python,sklearn,mysql,django,pandas,numpy,matplotlib" />
-</p>
+```yaml
+Primary Stack:
+  Mobile: Flutter & Dart
+  Backend: Firebase (Firestore, Auth, Cloud Functions)
+  State Management: Provider, Riverpod, BLoC
+  
+Currently Exploring:
+  - Advanced Flutter animations
+  - Firebase ML Kit integration
+  - CI/CD for mobile apps
+  - Real-time collaborative features
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Core Technologies
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Backend & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Science & ML
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustJorr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJorr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JustJorr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustJorr&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+- 🔨 Building a cross-platform productivity app with Flutter
+- 📚 Mastering advanced state management patterns
+- 🎨 Exploring custom animations and transitions
+- 🤝 Contributing to open-source Flutter packages
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to collaborating on exciting mobile projects, discussing Flutter best practices, or just chatting about tech. Feel free to reach out!
+
+<div align="center">
+
+**"Code is poetry written in logic."**
+
+⭐️ From [JustJorr](https://github.com/JustJorr)
+
+</div>
