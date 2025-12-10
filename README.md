@@ -17,22 +17,9 @@
 
 ## 💫 About Me
 
-```dart
-class Developer {
-  final String name = "Jordan";
-  final String role = "Mobile Developer";
-  final List<String> focus = [
-    "Flutter & Dart",
-    "Firebase Backend",
-    "Cross-Platform Apps",
-    "UI/UX Design"
-  ];
-  
-  String passion() => "Building products that people actually want to use";
-  
-  bool alwaysLearning = true;
-}
-```
+> **Mobile Developer** specializing in Flutter & Firebase  
+> Building cross-platform apps that users love  
+> Always learning, always shipping 🚀
 
 I'm a university student obsessed with creating smooth, performant mobile applications. My approach combines clean code with intuitive design, always prioritizing user experience. Currently diving deep into Flutter's ecosystem while exploring the intersection of mobile development and emerging technologies.
 
@@ -46,18 +33,16 @@ I'm a university student obsessed with creating smooth, performant mobile applic
 
 ## 🔥 Current Focus
 
-```yaml
-Primary Stack:
-  Mobile: Flutter & Dart
-  Backend: Firebase (Firestore, Auth, Cloud Functions)
-  State Management: Provider, Riverpod, BLoC
-  
-Currently Exploring:
-  - Advanced Flutter animations
-  - Firebase ML Kit integration
-  - CI/CD for mobile apps
-  - Real-time collaborative features
-```
+**Primary Stack:**  
+🎯 Mobile: `Flutter` & `Dart`  
+🔥 Backend: `Firebase` (Firestore, Auth, Cloud Functions)  
+⚙️ State Management: `Provider`, `Riverpod`, `BLoC`
+
+**Currently Exploring:**
+- Advanced Flutter animations & custom transitions
+- Firebase ML Kit integration
+- CI/CD pipelines for mobile apps
+- Real-time collaborative features
 
 ---
 
@@ -116,14 +101,20 @@ Currently Exploring:
 
 ---
 
+## 💡 Philosophy
+
+**"Great apps aren't built—they're refined through iteration, feedback, and obsessive attention to detail."**
+
+I believe in writing code that's not just functional, but elegant and maintainable. Every project is an opportunity to learn something new and push the boundaries of what's possible on mobile.
+
+---
+
 ## 💬 Let's Connect
 
 I'm always open to collaborating on exciting mobile projects, discussing Flutter best practices, or just chatting about tech. Feel free to reach out!
 
 <div align="center">
 
-**"Code is poetry written in logic."**
-
-⭐️ From [JustJorr](https://github.com/JustJorr)
+⭐️ From [JustJorr](https://github.com/JustJorr) | Made with ❤️ and Flutter
 
 </div>
