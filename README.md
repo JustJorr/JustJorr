@@ -1,13 +1,12 @@
 <div align="center">
 
-# Jordan Josia 🚀
+# Hi! i'm Jordan :D
 
 ### Mobile Developer | Flutter Enthusiast | Product Builder
 
 *Crafting pixel-perfect mobile experiences and turning ambitious ideas into real-world applications*
 
 [![Email](https://img.shields.io/badge/Email-jordanjosia929%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordanjosia929@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-JustJorr-181717?style=for-the-badge&logo=github)](https://github.com/JustJorr)
 [![Instagram](https://img.shields.io/badge/Instagram-%40danszs._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@danszs._)
 [![Discord](https://img.shields.io/badge/Discord-%40justjorr.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@justjorr.)
 
