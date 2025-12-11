@@ -22,12 +22,6 @@
 
 I'm a university student obsessed with creating smooth, performant mobile applications. My approach combines clean code with intuitive design, always prioritizing user experience. Currently diving deep into Flutter's ecosystem while exploring the intersection of mobile development and emerging technologies.
 
-**What drives me:**
-- 🎨 Crafting interfaces that feel natural and delightful
-- ⚡ Optimizing performance down to the last frame
-- 🔧 Experimenting with new frameworks and architectural patterns
-- 📦 Shipping real products that solve actual problems
-
 ---
 
 ## 🔥 Current Focus
