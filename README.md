@@ -87,15 +87,4 @@ I'm a university student obsessed with creating smooth, performant mobile applic
 - 🎨 Exploring custom animations and transitions
 - 🤝 Contributing to open-source Flutter packages
 
----
-
-
-## 💬 Let's Connect
-
-I'm always open to collaborating on exciting mobile projects, discussing Flutter best practices, or just chatting about tech. Feel free to reach out!
-
-<div align="center">
-
-⭐️ From [JustJorr](https://github.com/JustJorr) | Made with ❤️ and Flutter
-
 </div>
