@@ -95,13 +95,6 @@ I'm a university student obsessed with creating smooth, performant mobile applic
 
 ---
 
-## 💡 Philosophy
-
-**"Great apps aren't built—they're refined through iteration, feedback, and obsessive attention to detail."**
-
-I believe in writing code that's not just functional, but elegant and maintainable. Every project is an opportunity to learn something new and push the boundaries of what's possible on mobile.
-
----
 
 ## 💬 Let's Connect
 
