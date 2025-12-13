@@ -2,7 +2,7 @@
 
 # Hi! i'm Jordan :D
 
-### Mobile Developer | Flutter Enthusiast | Product Builder
+### Jr Mobile Developer | Flutter Enthusiast | Product Builder
 
 *Crafting pixel-perfect mobile experiences and turning ambitious ideas into real-world applications*
 
@@ -86,12 +86,4 @@ I'm a university student obsessed with creating smooth, performant mobile applic
 </div>
 
 ---
-
-## 🎯 What I'm Working On
-
-- 🔨 Building a cross-platform productivity app with Flutter
-- 📚 Mastering advanced state management patterns
-- 🎨 Exploring custom animations and transitions
-- 🤝 Contributing to open-source Flutter packages
-
 </div>
