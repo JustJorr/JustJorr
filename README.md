@@ -75,6 +75,13 @@ I'm a university student obsessed with creating smooth, performant mobile applic
 </div>
 
 <div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJorr&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Most Used Languages"
+  />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustJorr&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
